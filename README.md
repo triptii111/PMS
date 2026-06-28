@@ -255,7 +255,6 @@ Contains all the parking logic.
 
 ## Author
 
-**Name   :** Aditya Thakur  
-**Course :** B.Tech Computer Science  
+**Name   :** Tripti Kushwaha  
+**Course :** B.Tech Chemical Engineer
 **Subject:** Data Structures and Algorithms  
-**Project:** Mini Project — Semester III  
