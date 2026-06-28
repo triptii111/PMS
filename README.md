@@ -102,11 +102,11 @@ Parking-Management-System/
 
 ## How to Compile and Run
 
-Make sure `g++` is installed.
+Make sure `c++` is installed.
 
 **Compile:**
 ```bash
-g++ *.cpp -o ParkingManagement
+c++ *.cpp -o ParkingManagement
 ```
 
 **Run on Windows:**
